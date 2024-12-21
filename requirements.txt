@@ -1,0 +1,29 @@
+# PyTorch : pour un GPU NVIDIA récent, installer d'abord la version CUDA adaptée, par ex.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch>=2.7
+transformers>=4.56
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+datasets
+tiktoken
+regex
+safetensors
+huggingface_hub
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+rank_bm25
+faiss-cpu
+tqdm
+jupyter
+ipykernel
+nbformat
+nbconvert
+jupytext
+pytest
