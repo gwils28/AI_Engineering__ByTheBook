@@ -64,7 +64,7 @@ Lancer les tests : `pytest tests/`.
 
 | Chapitre | Thème | Statut |
 |---|---|---|
-| 1 | Introduction : construire des applications avec des modèles de fondation | ⬜ |
+| 1 | [Introduction : construire des applications avec des modèles de fondation](notebooks/ch01_introduction_ai_engineering) | ✅ |
 | 2 | Comprendre les modèles de fondation | ⬜ |
 | 3 | Méthodologie d'évaluation | ⬜ |
 | 4 | Évaluer des systèmes d'IA | ⬜ |
