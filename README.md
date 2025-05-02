@@ -66,7 +66,7 @@ Lancer les tests : `pytest tests/`.
 |---|---|---|
 | 1 | [Introduction : construire des applications avec des modèles de fondation](notebooks/ch01_introduction_ai_engineering) | ✅ |
 | 2 | [Comprendre les modèles de fondation](notebooks/ch02_comprendre_modeles_fondation) | ✅ |
-| 3 | Méthodologie d'évaluation | ⬜ |
+| 3 | [Méthodologie d'évaluation](notebooks/ch03_methodologie_evaluation) | ✅ |
 | 4 | Évaluer des systèmes d'IA | ⬜ |
 | 5 | Prompt engineering | ⬜ |
 | 6 | RAG et agents | ⬜ |
