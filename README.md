@@ -69,7 +69,7 @@ Lancer les tests : `pytest tests/`.
 | 3 | [Méthodologie d'évaluation](notebooks/ch03_methodologie_evaluation) | ✅ |
 | 4 | [Évaluer des systèmes d'IA](notebooks/ch04_evaluer_systemes_ia) | ✅ |
 | 5 | [Prompt engineering](notebooks/ch05_prompt_engineering) | ✅ |
-| 6 | RAG et agents | ⬜ |
+| 6 | [RAG et agents](notebooks/ch06_rag_et_agents) | ✅ |
 | 7 | Finetuning | ⬜ |
 | 8 | Ingénierie des jeux de données | ⬜ |
 | 9 | Optimisation de l'inférence | ⬜ |
