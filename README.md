@@ -72,7 +72,7 @@ Lancer les tests : `pytest tests/`.
 | 6 | [RAG et agents](notebooks/ch06_rag_et_agents) | ✅ |
 | 7 | [Finetuning](notebooks/ch07_finetuning) | ✅ |
 | 8 | [Ingénierie des jeux de données](notebooks/ch08_ingenierie_donnees) | ✅ |
-| 9 | Optimisation de l'inférence | ⬜ |
+| 9 | [Optimisation de l'inférence](notebooks/ch09_optimisation_inference) | ✅ |
 | 10 | Architecture d'une application IA et retours utilisateurs | ⬜ |
 
 ## Références
